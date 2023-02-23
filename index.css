@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+    
+label{
+    font-family: 'Tilt Warp', cursive; 
+    margin-left:38%; 
+}
+
+li{
+    margin-left:35%; 
+  
+    font-family: 'Tilt Warp', cursive; 
+    font-size: 150%;
+}
+input{
+    margin-left: 41%;
+    color: rgb(0, 0, 0); background-color: #d18ea9;
+    border-radius: 20px;
+}
+button{
+    margin-left: 45%;
+    color: rgb(0, 0, 0); background-color: #d18ea9;
+    border-radius: 20px;
+}
+    .butt:hover{
+    box-shadow: 10 20 10 black;
+      color: aliceblue;
+      background-color: black;
+    }
